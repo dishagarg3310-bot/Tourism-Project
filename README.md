@@ -8,8 +8,7 @@ Tourism agencies and travel platforms aim to enhance user experiences by leverag
 
 ## 🚀 Live App
 
-Add your Streamlit Cloud link here once deployed.
-
+(https://tourism-project-lyvtxyzuvo8cxwpljc2ce2.streamlit.app/)
 ## 📊 Dataset
 
 The dataset consists of 9 linked tables covering:
